@@ -1,4 +1,4 @@
-# SuperiorPattern
+# SuperiorPattern : https://youtu.be/hm88wBpJb88
 ```py
 H:
 |   
